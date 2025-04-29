@@ -26,7 +26,9 @@ exports:
 
 # Forest Health and Old-Growth 🧙
 control c to exit and myst start --execute to restart
+
 GISWQS open publishing tutorial is at [open publishing](https://openscience.gishub.org/open-publishing)
+
 exit and myst build --docx or --pdf to export to word or pdf or myst build for all formats
 
 [](https://doi.org/10.3389/ffgc.2022.979528) old growth paper
