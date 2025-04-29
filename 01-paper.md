@@ -1,10 +1,10 @@
 ---
-title: How to MyST, without being mystified 🧙
+title: Forest Health and Old-Growth 🧙
 subject: Tutorial
-subtitle: Evolve your markdown documents into structured data
-short_title: How to MyST
+subtitle: Why forest conservation is nuanced
+short_title: How to Myst
 authors:
-  - name: Rowan Cockett
+  - name: Vance Russell
     affiliations:
       - Executable Books
       - Curvenote
@@ -24,7 +24,12 @@ exports:
     article_type: Report
 ---
 
-# How to MyST, without being mystified 🧙
+# Forest Health and Old-Growth 🧙
+control c to exit and myst start --execute to restart
+GISWQS open publishing tutorial is at [open publishing](https://openscience.gishub.org/open-publishing)
+exit and myst build --docx or --pdf to export to word or pdf or myst build for all formats
+
+[](https://doi.org/10.3389/ffgc.2022.979528) old growth paper
 
 ## Background
 
@@ -97,7 +102,7 @@ One of the common forms of scientific communication today is through PDF documen
 
 ## Map demo
 
-```{code-cell}
+```{code-cell} python
 import leafmap.foliumap as leafmap
 
 m = leafmap.Map(center=[40, -100], zoom=4)
