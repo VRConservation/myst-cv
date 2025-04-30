@@ -1,8 +1,8 @@
 ---
-title: Forest Health and Old-Growth 🧙
+title: Forest Health and Old-Growth 🌲
 subject: Tutorial
 subtitle: Why forest conservation is nuanced
-short_title: How to Myst
+short_title: Forest & Old-growth
 authors:
   - name: Vance Russell
     affiliations:
@@ -13,7 +13,7 @@ authors:
 license: CC-BY-4.0
 keywords: myst, markdown, open-science
 abstract: |
-  We introduce, a set of open-source, community-driven tools for MyST Markdown ([myst.tools](https://myst.tools)) designed for scientific communication, including a powerful authoring framework that supports blogs, online books, scientific papers, reports and journals articles.
+  From the Carroll et al 2025 and Noss et al 2025 we cite numerous reasons why managing forests is nuanced and have to be adapted to local situations.
 kernelspec:
   name: python3
   display_name: Python 3
@@ -25,13 +25,12 @@ exports:
 ---
 
 # Forest Health and Old-Growth 🧙
-control c to exit and myst start --execute to restart
 
-GISWQS open publishing tutorial is at [open publishing](https://openscience.gishub.org/open-publishing)
-
-exit and myst build --docx or --pdf to export to word or pdf or myst build for all formats
 
 [](https://doi.org/10.3389/ffgc.2022.979528) old growth paper
+
+Found that policy related to old-growth is complicated ([Carroll 2025](https://doi.org/10.3389/ffgc.2025.1493879)).
+
 
 ## Background
 
