@@ -1,20 +1,6 @@
 # Publications
-
-Russell, V. 2024. [Free & Open Source Geospatial Tools](https://3point.xyz/geosp). 3point.xyz.
-
-Russell, V. 2024. [Forest Business Alliance Guide](https://forestbiz.info/). Forest Business Alliance.
-
-Russell, V. and J. Odefey. 2024. [Conservation Finance: Towards a New Model for Landscape Restoration](https://confinance.info/index.html). 3point.xyz.
-
-Russell, V. and Sacco, C. 2023. [Spatial Business Planning: Scaling Forestry Businesses with Situation Assessments and Geospatial Analysis](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693). Forest Business Alliance. 
-
-Odefey, J. and V. Russell. 2020. [Because it’s worth it: New Approaches for delivering water infrastructure to disadvantaged California cities](https://srfadacip.com/wp-content/uploads/2022/05/Because-Its-Worth-It_final.pdf).  American Rivers, Nevada City, CA.
-
-Odefey, J and V. Russell. 2020. [Innovative Finance Issues Briefs](https://srfadacip.com/docs/). Sacramento River Funding Area, Disadvantaged Community Involvement Program. Yuba Water Agency, Department Water Resources.
-
-Russell, V and J. Odefey. 2021. Finding the arrowhead: The collaborative finance roadmap. [URL](https://urlshorter.net/TOXwqp).
-
-Russell, V and E. Holst. 2019. Good fire vs. bad fire. Revised 2024 and published on [Linkedin](https://urlshorter.net/ecNrJQ).
+:::{important} CONSERVATION
+:class: dropdown
 
 Russell, V. 2017. [What does measuring conservation outcomes mean?](https://www.nationalforests.org/blog/what-does-measuring-conservation-outcomes-mean). National Forest Foundation.
 
@@ -35,3 +21,32 @@ Margoluis R., V. Russell, M. Gonzalez, and O. Rojas. 2001. [Maximum yield? Susta
 Russell, V., L. Fisher, T. Robertson and R. Devine (Eds.). 1999. Coalition building and biodiversity conservation. Arlington, VA:  The Nature Conservancy, America Verde Publications.
 
 Russell, V. 1996. The Chimalapas Ecological Campesino Reserve:  The golden gourd of conflict and its role in protected area management. Unpublished M.S. thesis. Ithaca, NY:  Cornell University.
+:::
+
+:::{important} CONSERVATION FINANCE
+:class: dropdown
+
+Russell, V. and J. Odefey. 2024. [Conservation Finance: Towards a New Model for Landscape Restoration](https://confinance.info/index.html).
+
+Odefey, J. and V. Russell. 2020. [Because it’s worth it: New Approaches for delivering water infrastructure to disadvantaged California cities](https://srfadacip.com/wp-content/uploads/2022/05/Because-Its-Worth-It_final.pdf).  American Rivers, Nevada City, CA.
+
+Odefey, J and V. Russell. 2020. [Innovative Finance Issues Briefs](https://srfadacip.com/docs/). Sacramento River Funding Area, Disadvantaged Community Involvement Program. Yuba Water Agency, Department Water Resources.
+
+Russell, V and J. Odefey. 2021. [Finding the arrowhead: The collaborative finance roadmap](https://www.linkedin.com/pulse/finding-arrowhead-vance-russell).
+:::
+
+:::{important} FOREST HEALTH
+:class: dropdown
+
+Russell, V. 2024. [Forest Business Alliance Guide](https://forestbiz.info/). Forest Business Alliance.
+
+Russell, V. and Sacco, C. 2023. [Spatial Business Planning: Scaling Forestry Businesses with Situation Assessments and Geospatial Analysis](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693). Forest Business Alliance. 
+
+Russell, V and E. Holst. 2019. [Good fire vs. bad fire](https://www.linkedin.com/pulse/good-fire-vs-bad-vance-russell-xrzjc/). 
+:::
+
+:::{important} GEOSPATIAL
+:class: dropdown
+
+Russell, V. 2024. [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
+:::
