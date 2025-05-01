@@ -1,6 +1,24 @@
+---
+# authors:
+#   - name: Vance Russell
+# abstract: |
+#   Vance Russell has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. He is a conservation consultant, principal and owner of 3point.xyz. Vance works for various non-profit, state/federal agencies, and private businesses.
+# date: May 1, 2025
+# curvenote template works well
+exports:
+  - format: pdf
+    template: curvenote
+    output: exports/vance-cv.pdf
+    id: vance-cv.pdf
+downloads:
+  - id: vance-cv.pdf
+    title: Vance Russell CV
+---
+
 # C.V.
+**Vance Russell** <br>
 530.608.6607 | +44 7725 467072 <br>
-vance@3point.xyz | https://3point.xyz
+vance@3point.xyz | [3point.xyz](https://3point.xyz)
 
 ## EXPERIENCE
 
