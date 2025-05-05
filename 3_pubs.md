@@ -1,4 +1,5 @@
 # Publications
+A list of publications by category is provided in the dropdown menus below.
 :::{important} CONSERVATION
 :class: dropdown
 
