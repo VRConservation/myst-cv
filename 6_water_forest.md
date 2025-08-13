@@ -1,8 +1,8 @@
 ---
-title: Water and Forests 🧙
+title: Water and Forests
 subject: Article
 subtitle: Forests create water
-short_title: Water Forest
+short_title: Water + Forests
 authors:
   - name: Vance Russell
     affiliations:
@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 keywords: water, forest, open-science
 abstract: |
-  We introduce, the link between water and forests and focus on why beginning of the pipe is better than the outlet
+  We examine the link between water and forests and focus on why beginning of the pipe is better than the outlet
 kernelspec:
   name: python3
   display_name: Python 3

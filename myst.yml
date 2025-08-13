@@ -23,11 +23,6 @@ project:
     - file: 4_testimonials.md
     - file: 5-forests.md
     - file: 6_water_forest.md
-    - file: 7_notebook.ipynb
-    - title: Chapters
-      children:
-        - file: chapters/chapter-01.ipynb
-        - file: chapters/chapter-02.ipynb
     
 site:
   template: book-theme
