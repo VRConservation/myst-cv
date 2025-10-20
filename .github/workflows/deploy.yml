@@ -8,8 +8,8 @@ on:
     branches: [main]
 env:
   # `BASE_URL` determines the website is served from, including CSS & JS assets
-  # Set for custom domain at 3point.xyz/myst-cv
-  BASE_URL: /myst-cv
+  # Empty for custom domain setup at 3point.xyz/myst-cv
+  BASE_URL: ""
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -41,7 +41,9 @@ jobs:
           pip install ipykernel
           python -m ipykernel install --user
       - name: Build HTML Assets
-        run: myst build --html --execute
+        run: |
+          export MYST_BASE_URL="https://3point.xyz/myst-cv"
+          myst build --html --execute
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
