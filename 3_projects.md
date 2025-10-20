@@ -70,7 +70,6 @@ All projects by category.
 **North Coast Resource Partnership**. General support, strategy, and forest and fire capacity planning.  
 
 **Sonoma County Wood Material Pilot**. Technical, geospatial, and socioeconomic analysis for Sonoma County's wood feedstock aggregation pilot project.  
-
 :::
 
 :::{tab-item} Ecosystem Services
@@ -88,5 +87,3 @@ All projects by category.
 
 **WWF UK**. WWF UK nature, agriculture, and global footprint strategy.
 :::
-
-::::
